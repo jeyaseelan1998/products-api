@@ -1,4 +1,4 @@
-[
+const products = [
     {
         "id": "101",
         "name": "The Metro Movers Black",
@@ -64,3 +64,5 @@
         "category": "bags"
     }
 ]
+
+module.exports = products
